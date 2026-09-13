@@ -1,0 +1,16 @@
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# PyMuPDF / intermediate HTML reports
+report_10page.html
+en3160_assignment_01.html
+
+# OS metadata
+.DS_Store
+Thumbs.db
